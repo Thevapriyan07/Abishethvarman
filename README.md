@@ -1,4 +1,4 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="29px">
 
 ## 🚀 About Me
 
