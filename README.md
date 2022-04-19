@@ -46,12 +46,12 @@
 ### Cross Platform Development
 
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![React-Native](https://img.shields.io/badge/React-Native-28B6F6?style=for-the-badge&logo=React-Native&logoColor=white)](https://flutter.dev/?gclid=CjwKCAjwu_mSBhAYEiwA5BBmf6xTcryzkbrEIcc-2vtb7mouowNIE9tSSq4qTaHHoBc8R1j4-d4p1RoCQUgQAvD_BwE&gclsrc=aw.ds)
+![React-Native](https://img.shields.io/badge/React-Native-28B6F6?style=for-the-badge&logo=React-Native&logoColor=white)]
 <!-- ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white) -->
 
 ### Backend as a Service (BaaS)
 
-[![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)]
+[![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 <!-- ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) -->
