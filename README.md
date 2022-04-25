@@ -108,12 +108,12 @@
 <!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman)](https://github.com/anuraghazra/github-readme-stats)
+![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&hide=contribs,prs)
+![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&count_private=true)
+![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true)
+![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abishethvarman&repo=github-readme-stats)](https://github.com/abishethvarman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishethvarman)](https://github.com/abishethvarman/github-readme-stats)
 
 
