@@ -78,14 +78,11 @@
 ## 📝 Top Blog Posts
 
 -   [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
--   [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
--   [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
--   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
--   [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh) -->
+
 
 <!-- Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy) -->
 
-<!-- ## 📈 Stats
+## 📈 Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
@@ -93,7 +90,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
-</div> -->
+</div>
 
 ## 🔗 Links 
 
