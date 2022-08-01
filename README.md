@@ -4,8 +4,6 @@
 
 🎓 I am Abishethvarman V currently pursuing Bsc. Special in Information Systems in Sabaragamuwa University of Sri Lanka. Also Im very much interested on the React Js. So I follow the MERN stack for my technical knowledge. 
 
-
-
 ## 🏅 Achievements
 
 
