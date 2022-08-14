@@ -66,15 +66,15 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=abishethvarman&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&hide_border=true" alt="Abishethvarman's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=abishethvarman.abishethvarman" alt="visitors">
 </div>
 
 ## 🔗 Links 
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
@@ -83,13 +83,13 @@
 
 
 
-[![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman)](https://github.com/anuraghazra/github-readme-stats)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&hide=contribs,prs)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&count_private=true)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abishethvarman&repo=github-readme-stats)](https://github.com/abishethvarman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishethvarman)](https://github.com/abishethvarman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishethvarman)](https://github.com/abishethvarman/github-readme-stats) -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abishethvarman)](https://git.io/streak-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abishethvarman&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
