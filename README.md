@@ -1,13 +1,13 @@
 # Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="50px">
 
-## 🚀 About Me
+### 🚀 About Me
 
 🎓 I am Abishethvarman V currently pursuing Bsc. Special in Information Systems in Sabaragamuwa University of Sri Lanka. Also Im very much interested on the React Js. So I follow the MERN stack for my technical knowledge. 
 
-## 🏅 Achievements
+<!-- ## 🏅 Achievements
 
 
-## 🛠️ Skills
+## 🛠️ Skills -->
 
 ### Languages
 
