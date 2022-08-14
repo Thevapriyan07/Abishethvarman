@@ -72,6 +72,7 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abishethvarman&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&theme=radical)
 
 ## 🔗 Links 
 
@@ -89,7 +90,7 @@
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&hide=contribs,prs)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&count_private=true)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true)
-![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&theme=radical)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abishethvarman&repo=github-readme-stats)](https://github.com/abishethvarman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishethvarman)](https://github.com/abishethvarman/github-readme-stats) -->
 
