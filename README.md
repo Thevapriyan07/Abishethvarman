@@ -56,7 +56,7 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Abishethvarman/Abishethvarman/output/github-contribution-grid-snake.svg)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Abishethvarman/Abishethvarman/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- ## 📝 Top Blog Posts -->
