@@ -68,11 +68,12 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&hide_border=true" alt="Abishethvarman's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=abishethvarman.abishethvarman" alt="Profile Views">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abishethvarman&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=abishethvarman.abishethvarman" alt="Profile Views"> -->
+    
     <br />
     <img src="https://komarev.com/ghpvc/?username=abishethvarman">
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abishethvarman&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🔗 Links 
 
