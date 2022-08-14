@@ -32,7 +32,7 @@
 
 ### Cross Platform Development
 
-![React-Native](https://img.shields.io/badge/React-Native-28B6F6?style=for-the-badge&logo=React-Native&logoColor=white)]
+![React-Native](https://img.shields.io/badge/React-Native-28B6F6?style=for-the-badge&logo=React-Native&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 
 
@@ -75,13 +75,12 @@
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://tapajyoti-bose.vercel.app/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
-<!-- [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044) -->
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/)
-<!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tapajyotib/) -->
+
 
 
 [![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman)](https://github.com/anuraghazra/github-readme-stats)
@@ -89,19 +88,12 @@
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&count_private=true)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true)
 ![Abishethvarman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abishethvarman&show_icons=true&theme=radical)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abishethvarman&repo=github-readme-stats)](https://github.com/abishethvarman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishethvarman)](https://github.com/abishethvarman/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abishethvarman)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abishethvarman)](https://git.io/streak-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abishethvarman&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=abishethvarman)
-404
 
-
-commit -
-GitHub learning 
-T
